@@ -7,6 +7,6 @@ public class Main {
              Product p=new Product();
              p.product(5,8);
              p.product(1,5,6);
-             p.product(9,10);
+             p.product(9.9,10.5);
          }
 }
